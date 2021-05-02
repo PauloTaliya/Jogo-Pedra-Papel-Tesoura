@@ -1,1 +1,0 @@
-# Jogo-Pedra-Papel-Tesoura
